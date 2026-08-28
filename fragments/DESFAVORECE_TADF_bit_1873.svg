@@ -1,0 +1,49 @@
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='150px' height='150px' viewBox='0 0 150 150'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='150.0' height='150.0' x='0.0' y='0.0'> </rect>
+<ellipse cx='99.3' cy='111.5' rx='17.2' ry='17.2' class='atom-1'  style='fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:1.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 141.4,38.5 L 99.3,111.5' style='fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 130.2,32.1 L 91.9,98.6' style='fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,4' />
+<path class='bond-1 atom-1 atom-2' d='M 99.3,111.5 L 21.9,111.5' style='fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 91.9,98.6 L 21.9,98.6' style='fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,4' />
+<path d='M 101.4,107.8 L 99.3,111.5 L 95.4,111.5' style='fill:none;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path class='atom-0' d='M 132.1 31.0
+L 135.7 27.4
+L 131.0 26.4
+L 131.7 23.9
+L 136.1 26.2
+L 135.4 21.4
+L 138.0 21.3
+L 137.3 26.1
+L 141.7 24.1
+L 142.5 26.4
+L 137.7 27.3
+L 141.1 31.0
+L 139.0 32.5
+L 136.6 27.9
+L 134.2 32.5
+L 132.1 31.0
+' fill='#191919'/>
+<path class='atom-2' d='M 8.7 102.3
+L 12.2 98.6
+L 7.5 97.7
+L 8.2 95.2
+L 12.6 97.4
+L 12.0 92.7
+L 14.6 92.6
+L 13.8 97.4
+L 18.3 95.3
+L 19.0 97.7
+L 14.2 98.6
+L 17.7 102.3
+L 15.6 103.8
+L 13.2 99.2
+L 10.8 103.8
+L 8.7 102.3
+' fill='#191919'/>
+</svg>
